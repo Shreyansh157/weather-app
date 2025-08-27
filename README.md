@@ -14,6 +14,11 @@ A beautiful, responsive live weather application built with Node.js, Express, EJ
 - 🔍 **Smart Search** - Intelligent city search with error handling
 - 📊 **Comprehensive Data** - Temperature, humidity, wind speed, pressure, and visibility
 
+## 📷 Preview
+<img width="1351" height="659" alt="localhost_3000_ (1)" src="https://github.com/user-attachments/assets/54ef7484-58a3-49eb-ba43-c3bf42a91ca4" />
+<img width="1366" height="919" alt="screencapture-localhost-3000-weather-2025-08-27-22_34_45" src="https://github.com/user-attachments/assets/5f2f1347-1858-44c9-ac3f-194eeb0ca659" />
+
+
 ## 🛠️ Tech Stack
 
 **Backend:**
