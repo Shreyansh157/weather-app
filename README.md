@@ -4,15 +4,15 @@ A beautiful, responsive live weather application built with Node.js, Express, EJ
 
 ## ✨ Features
 
-- 🌍 **Global Weather Data** - Get weather information for any city worldwide
-- 🎨 **Modern UI Design** - Beautiful glassmorphism interface with smooth animations
-- 📱 **Fully Responsive** - Works perfectly on desktop, tablet, and mobile devices
-- 🌈 **Dynamic Backgrounds** - Background gradients that change based on weather conditions
-- ⚡ **Real-time Updates** - Live weather data from OpenWeatherMap API
-- 🕒 **Live Clock** - Current date and time display with auto-updates
-- 🎭 **Smooth Animations** - Loading states, hover effects, and transition animations
-- 🔍 **Smart Search** - Intelligent city search with error handling
-- 📊 **Comprehensive Data** - Temperature, humidity, wind speed, pressure, and visibility
+- 🌍 **Global Weather Data** - Get weather information for any city worldwide.
+- 🎨 **Modern UI Design** - Beautiful glassmorphism interface with smooth animations.
+- 📱 **Fully Responsive** - Works perfectly on desktop, tablet, and mobile devices.
+- 🌈 **Dynamic Backgrounds** - Background gradients that change based on weather conditions.
+- ⚡ **Real-time Updates** - Live weather data from OpenWeatherMap API.
+- 🕒 **Live Clock** - Current date and time display with auto-updates.
+- 🎭 **Smooth Animations** - Loading states, hover effects, and transition animations.
+- 🔍 **Smart Search** - Intelligent city search with error handling.
+- 📊 **Comprehensive Data** - Temperature, humidity, wind speed, pressure, and visibility.
 
 ## 📷 Preview
 <img width="1351" height="659" alt="localhost_3000_ (1)" src="https://github.com/user-attachments/assets/54ef7484-58a3-49eb-ba43-c3bf42a91ca4" />
